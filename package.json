@@ -1,6 +1,6 @@
 {
   "name": "amd-lite",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Minimal AMD / RequireJS implementation. No plugins, no loaders, only module resolving.",
   "main": "amdLite.js",
   "scripts": {
