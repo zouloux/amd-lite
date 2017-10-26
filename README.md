@@ -3,6 +3,7 @@
 Minimal AMD / RequireJS implementation.
 **No plugins, no loaders, only module resolving.**
 
+AMD modules in the browser for less than 4KB !
 
 # Why ?
 

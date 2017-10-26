@@ -5,7 +5,7 @@
   "main": "amdLite.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "uglify" : "./node_modules/uglify-js/bin/uglifyjs --compress --output amdLite.min.js -- amdLite.js"
+    "uglify" : "./node_modules/uglify-js/bin/uglifyjs --compress --output amdLite.min.js --verbose -- amdLite.js && du -a -h amdLite.min.js"
   },
   "repository": {
     "type": "git",
