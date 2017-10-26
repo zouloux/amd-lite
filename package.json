@@ -1,0 +1,37 @@
+{
+  "name": "amd-lite",
+  "version": "0.1.0",
+  "description": "Minimal AMD / RequireJS implementation. No plugins, no loaders, only module resolving.",
+  "main": "amdLite.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "uglify" : "./node_modules/uglify-js/bin/uglifyjs --compress --output amdLite.min.js -- amdLite.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zouloux/amd-lite.git"
+  },
+  "keywords": [
+    "AMD",
+    "requirejs",
+    "require",
+    "lite",
+    "minimal",
+    "api",
+    "implementation",
+    "solid",
+    "solidjs",
+    "solid-js",
+    "solidify",
+    "typescript"
+  ],
+  "author": "Alexis Bouhet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zouloux/amd-lite/issues"
+  },
+  "homepage": "https://github.com/zouloux/amd-lite#readme",
+  "devDependencies": {
+    "uglify-js": "^3.1.5"
+  }
+}
