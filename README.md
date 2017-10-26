@@ -7,7 +7,7 @@ Minimal AMD / RequireJS implementation.
 # Why ?
 
 AMD modules are not simple to use, RequireJS and r.js api are heavy and complex. 
-AmdLite is here to offer modular JS in the browser with a minimal footprint and configuration complexity.
+AmdLite is here to offer modular JS in the browser with a minimal footprint and without configuration complexity.
 
 
 ### This script is for you if : 
